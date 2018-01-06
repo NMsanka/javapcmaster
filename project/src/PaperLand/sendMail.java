@@ -23,9 +23,9 @@ public class sendMail {
     public List<String> list = new ArrayList<String>();
     public String stockloww;
     
-    private static String USER_NAME = "nmsankapadma";  // GMail user name (just the part before "@gmail.com")
-    private static String PASSWORD = "malsachiii"; // GMail password
-    private static String RECIPIENT = "nmsankapadma@gmail.com";
+    private static String USER_NAME = "";  // GMail user name (just the part before "@gmail.com")
+    private static String PASSWORD = ""; // GMail password
+    private static String RECIPIENT = "";
  
       
     
